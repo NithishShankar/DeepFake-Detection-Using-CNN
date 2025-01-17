@@ -1,4 +1,4 @@
-# Deepfake Detection with Grad-CAM Explainability
+# Deepfake Detection With CNN
 
 This repository provides a deepfake detection tool that identifies whether an input face image is real or fake. The tool uses a pre-trained InceptionResnetV1 model and Grad-CAM to visualize the regions in the image contributing to the prediction. A user-friendly interface is implemented using [Gradio](https://gradio.app/).
 
